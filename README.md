@@ -41,31 +41,31 @@ All of the lots in total meet this threshold with variance of 62. Although Lot 3
 
 ## T-Test on Suspension Coils
 
-#T-test on all Lots
+# T-test on all Lots
 
 ![Screen Shot 2022-09-26 at 1 16 12 PM](https://user-images.githubusercontent.com/108902185/192339792-05a6ef45-a664-4368-832d-8c7012a1dcf0.png)
 
 The p-value of 1 is greater than the alpha of .05. This indicating the total manufacturing lot does not statistically vary from the normal distribution at a significant level with a mean that falls within the confidence interval.
 
-#T-test on Lot 1
+# T-test on Lot 1
 
 ![Screen Shot 2022-09-26 at 1 24 02 PM](https://user-images.githubusercontent.com/108902185/192341135-48eb936a-0f22-4d4a-88bf-7f90859f1666.png)
 
 The p-value of 0.0 is less than the alpha of .05. This indicating the total manufacturing lot does statistically vary from the normal distribution at a significant level with a mean that falls within the confidence interval.
 
-#T-test on Lot 2
+# T-test on Lot 2
 
 ![Screen Shot 2022-09-26 at 1 26 25 PM](https://user-images.githubusercontent.com/108902185/192341645-c7dbb71f-8b5e-4502-91d9-fa78f6c2df78.png)
 
 The p-value of 0.0 is less than the alpha of .05. This indicating the total manufacturing lot does statistically vary from the normal distribution at a significant level with a mean that falls within the confidence interval.
 
-#T-test on Lot 3
+# T-test on Lot 3
 
 ![Screen Shot 2022-09-26 at 1 27 18 PM](https://user-images.githubusercontent.com/108902185/192341819-31f4e187-e211-471c-b802-24442bb5b0e7.png)
 
 The p-value of .1589 is greater than the alpha of .05. This indicating the total manufacturing lot does not statistically vary from the normal distribution at a significant level with a mean that falls within the confidence interval.
 
-##Study Design: MechaCar vs Competition
+## Study Design: MechaCar vs Competition
 1. This study would be on the MPG on the highway as well as the city for the MechaCar prototypes versus the Competition.
 
 2. The null hypothesis would be that there is no difference in highway and city MPG for MechaCar vs the Competition. The alternative hypothesis would be that there is a difference in the city and highway MPGs between MechaCar and the Competition.
